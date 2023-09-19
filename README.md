@@ -1,13 +1,13 @@
 ![MasterHead](https://media0.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif)
 <h1 align="center">Hi 👋, I'm Mpho Moloi</h1>
-<h3 align="center">An Applied Mathematics graduate from South Africa with a passion for data analytics</h3>
+<h3 align="center">An Applied Mathematics graduate from South Africa with a passion for data analytics and machine learning</h3>
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpho-mol&label=Profile%20views&color=0e75b6&style=flat" alt="mpho-mol" /> </p>
 
 
 
-- 🌱 I’m currently learning **Julia**
+- 🌱 I’m currently learning **Julia & TensorFlow**
 
 - 👯 I’m looking to collaborate on **projects with subject matter experts in order to find viable solutions in different applications**
 
